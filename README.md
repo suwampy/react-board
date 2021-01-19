@@ -1,4 +1,5 @@
 ## react-board
-   - react + typescript
+   - react
+   - typescript
    - spring boot
-   
+   - oracle 11g
